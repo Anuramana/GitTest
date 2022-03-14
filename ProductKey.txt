@@ -1,0 +1,11 @@
+
+Date/Time Processed: 10/5/2021 7:25:42 PM
+Manufacturer:        HP
+Device Model:        HP ENVY x360 Convertible 15m-es0xxx
+Serial Number:       8CG12768MH
+Windows OS Edition:  Windows 10 Home
+Windows OS Build:    19043.1237 (21H1)
+Product Key ID:      3258490490930  
+Product Key (5x5):   CN6DH-8XG2H-HRWFT-QHBXJ-7FR7D
+Site Reference:      4120
+
